@@ -15,3 +15,6 @@
 4. Where are the internals of the repository stored? Paste the output of the following command on macOS & Linux.
 
         ls -lA
+        
+total 0
+drwxr-xr-x  10 ulisesmarian  staff  320 Oct 11 20:21 .git
