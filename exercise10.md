@@ -22,10 +22,10 @@
 
 7. Examine the contents of one of the blobs
 
-8. What type of object does the parent hash represent?
+8. What type of object does the parent hash represent? Commit
 
         git cat-file -t <hash>
 
 9. Examine the contents of the parent and its tree
 
-10. Do the trees you looked at have any matching hashes listed?
+10. Do the trees you looked at have any matching hashes listed? Yes
