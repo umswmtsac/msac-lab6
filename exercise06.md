@@ -35,8 +35,10 @@
         git status
 
 10. Which of the steps could be omitted?
+    git status in general is not a requisite.
 
 11. Why might it be a bad idea to omit them?
+    Because then we wouldn't know (have feedback) whether our fruits.txt file contains what we want it to, nor whether the commit(s) were successful.
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 
